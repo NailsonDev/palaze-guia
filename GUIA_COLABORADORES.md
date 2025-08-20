@@ -212,25 +212,3 @@ Agora que você sabe como usar, vamos praticar:
 1. **Digite:** `/saldo` (para ver se está cadastrado)
 2. **Registre hoje:** `/registrarvenda total_vendas:X total_lucro:Y observacoes:Primeiro dia`
 3. **Confira:** `/saldo` (para ver o resultado)
-
-### 🚀 Meta para Esta Semana
-- Registrar vendas todos os dias
-- Acompanhar seu saldo diariamente
-- Melhorar suas médias gradualmente
-
----
-
-## 📞 Contatos para Suporte
-
-**Administradores do Sistema:**
-- Para cadastro no sistema
-- Para correções de registros
-- Para dúvidas técnicas
-- Para relatórios especiais
-
-**Lembre-se:** Este sistema é para nos ajudar a crescer juntos! 💪
-
----
-
-**G2G.com - Sistema de Colaboradores**
-*Juntos vendemos mais! 🏆* 
